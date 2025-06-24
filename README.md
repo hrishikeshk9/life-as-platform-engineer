@@ -1,4 +1,4 @@
-# life-as-platform-engineer :D
+# life-as-platform-engineer 🎃
 
 ## Coding Questions for Platform Engineers
 
